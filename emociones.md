@@ -1,0 +1,3 @@
+1. Objetivo General
+
+El propósito de este proyecto es analizar imágenes o video en tiempo real para determinar si hay presencia de vida humana (específicamente rostros), utilizando la biblioteca MediaPipe. A partir de la detección facial, se modelan puntos clave para reconocer gestos o expresiones que confirmen que se trata de una persona viva y no una imagen estática. y asi mismo una persona detectar las emociones ya que se pueda ver si esta feliz o si esta trizte y pueda ser comparado y ver las emociones 
