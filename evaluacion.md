@@ -14,15 +14,16 @@ Estos serian los patrones que serian los puntos en el rostro que son las landmar
 
 Usamos:
 
-ReLU en las capas ocultas.
+ReLU en las capas ocultas: ya que es una de las ulilizadas con numeros positivos y es la mas comun es este aspecto que consideor que es la mejor para poder resolver este problema 
 
-Softmax en la salida.
+Softmax en la salida: pues para la salida ya que es comunmente usada en la capa final o la de salida 
 
 En total: una función por capa .
 
 - Definir el numero maximo de entradas 
 
-Serian si usamos x,y , z serian 468 X 3 = 1,404
+468 son las landmarks o puntos caracteristicos 
+Serian si usamos [x,y , z]son 3 esto serian 468 X 3 = 1,404
 entradas 
 
 - ¿Que valores a la salida de la red se podrian esperar?
